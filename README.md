@@ -4,8 +4,10 @@
 **bjw806/bjw806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjw806)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">Jeong Woo Bok</h1>
-<h3 align="center">컴퓨터공학 전공 4학년</h3>
+<h3 align="center">University student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
