@@ -15,4 +15,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjw806)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bjw806&show_icons=true&locale=en&layout=compact" alt="bjw806" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjw806)](https://github.com/anuraghazra/github-readme-stats)
