@@ -1,3 +1,5 @@
+request_client = RequestClient(api_key='Your-api-Key', secret_key='Your-secret-Key')
+
 ### Hi there 👋
 
 <!--
