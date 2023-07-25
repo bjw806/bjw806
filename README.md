@@ -7,8 +7,6 @@
 <h3 align="center">University student</h3>
 -->
 
-<h1 align="center">Jeong Woo Bok</h1>
-
 
 <p align="left">
 </p>
